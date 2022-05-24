@@ -61,3 +61,10 @@ textarea {
 ::-webkit-scrollbar {
   width: 0px;
 }
+
+@media (max-width: 600px){
+  textarea {
+    width: 600px;
+    height: 800px;
+  }
+}
