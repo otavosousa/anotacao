@@ -65,6 +65,6 @@ textarea {
 @media (max-width: 600px){
   textarea {
     width: 590px;
-    min-width: 700px;
+    min-height: 700px;
   }
 }
