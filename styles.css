@@ -49,13 +49,14 @@ table {
 }
 textarea {
   border: none;
-  background-color: transparent;
+  background-color: #21222C;
   resize: none;
   outline: none;
   font-family: 'Roboto', sans-serif;
-  font-size: 18px;
+  font-size: 14px;
   width: 98vw;
   height: 98vh;
+  color: #FFFFFF;
 }
 
 ::-webkit-scrollbar {
